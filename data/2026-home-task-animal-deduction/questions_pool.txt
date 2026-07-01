@@ -1,0 +1,559 @@
+is it a mammal?
+is it a bird?
+is it a reptile?
+is it an amphibian?
+is it a fish?
+is it an insect?
+is it an arachnid?
+is it a mollusk?
+is it a crustacean?
+is it a cephalopod?
+is it a gastropod?
+is it a worm?
+is it a sponge?
+is it a jellyfish?
+is it a coral?
+is it an echinoderm?
+is it a cnidarian?
+is it an annelid?
+is it an arthropod?
+is it a rodent?
+is it a marsupial?
+is it a primate?
+is it a feline?
+is it a canine?
+is it a ungulate?
+is it a cetacean?
+is it a bat?
+is it a snake?
+is it a lizard?
+is it a turtle?
+is it a frog?
+is it a toad?
+is it a salamander?
+is it a shark?
+is it a ray?
+is it an eel?
+is it a beetle?
+is it a butterfly?
+is it a moth?
+is it an ant?
+is it a bee?
+is it a wasp?
+is it a spider?
+is it a scorpion?
+is it a crab?
+is it a lobster?
+is it a shrimp?
+is it a snail?
+is it a slug?
+is it an octopus?
+is it a squid?
+is it a clam?
+is it a starfish?
+is it an invertebrate?
+is it a vertebrate?
+does it have a backbone?
+does it have a spine?
+does it belong to the cat family?
+does it belong to the dog family?
+does it belong to the deer family?
+does it belong to the horse family?
+does it belong to the bear family?
+does it belong to the weasel family?
+is it a bird of prey?
+is it a songbird?
+is it a waterfowl?
+is it a seabird?
+is it a flightless bird?
+is it a hoofed animal?
+is it a primate other than a human?
+is it a great ape?
+is it a monkey?
+is it a big cat?
+is it a member of the rodent order?
+is it warm-blooded?
+is it cold-blooded?
+does it regulate its own body temperature?
+does it have fur?
+does it have hair?
+does it have feathers?
+does it have scales?
+does it have a shell?
+does it have an exoskeleton?
+does it have a smooth skin?
+does it have slimy skin?
+does it have a hard outer covering?
+does it have skin without scales or fur?
+does it have legs?
+does it have four legs?
+does it have two legs?
+does it have six legs?
+does it have eight legs?
+does it have more than four legs?
+does it have more than eight legs?
+does it have no legs?
+does it have wings?
+does it have two wings?
+does it have four wings?
+can it use its wings to fly?
+does it have a tail?
+does it have a long tail?
+does it have a prehensile tail?
+does it have horns?
+does it have antlers?
+does it have a single horn?
+does it have tusks?
+does it have a beak?
+does it have a bill?
+does it have teeth?
+does it have sharp teeth?
+does it have fangs?
+does it have a trunk?
+does it have claws?
+does it have retractable claws?
+does it have hooves?
+does it have paws?
+does it have fins?
+does it have gills?
+does it have lungs?
+does it breathe air?
+does it breathe underwater?
+does it have whiskers?
+does it have antennae?
+does it have a snout?
+does it have a long neck?
+does it have a hump?
+does it have a pouch?
+does it have spines or quills?
+does it have a stinger?
+does it have webbed feet?
+does it have a beard or mane?
+does it have multiple legs on each body segment?
+does it have compound eyes?
+does it have more than two eyes?
+does it have a hard shell it can retreat into?
+does it have a soft body?
+does it have a segmented body?
+does it have tentacles?
+does it have suction cups?
+does it have a forked tongue?
+does it have a long tongue?
+does it have spots?
+does it have stripes?
+is it brightly colored?
+is it mostly black?
+is it mostly white?
+is it mostly brown?
+is it green?
+is it able to change color?
+is it camouflaged in its environment?
+is it bigger than a human?
+is it smaller than a human?
+is it larger than a horse?
+is it smaller than a housecat?
+is it smaller than a mouse?
+can it fit in the palm of your hand?
+can it fit in your hand?
+is it one of the largest animals on earth?
+is it one of the largest land animals?
+is it the largest of its kind?
+is it among the smallest animals?
+is it microscopic?
+is it heavier than an adult human?
+does it weigh more than a ton?
+does it weigh less than a kilogram?
+is it taller than a person?
+is it longer than a meter?
+is it longer than ten meters?
+is it about the size of a dog?
+is it about the size of a bird?
+does it live in water?
+does it live mostly in water?
+does it live in the ocean?
+does it live in saltwater?
+does it live in freshwater?
+does it live in rivers?
+does it live in lakes?
+does it live in ponds?
+does it live in swamps or wetlands?
+does it live in the deep sea?
+does it live near coral reefs?
+does it live on land?
+does it live mostly on land?
+does it live both on land and in water?
+is it amphibious?
+does it live underground?
+does it burrow?
+does it dig holes?
+does it live in trees?
+does it spend most of its time in trees?
+does it live in forests?
+does it live in tropical rainforests?
+does it live in deserts?
+does it live in grasslands?
+does it live on the savanna?
+does it live in mountains?
+does it live in polar regions?
+does it live in the arctic?
+does it live in cold climates?
+does it live in warm climates?
+does it live in caves?
+does it live in the jungle?
+does it live in urban areas?
+does it live near humans?
+does it build a nest?
+does it build a web?
+does it build a dam?
+does it live in a hive?
+does it live in a colony?
+does it make its own shelter?
+is it found in africa?
+is it found in asia?
+is it found in europe?
+is it found in north america?
+is it found in south america?
+is it found in australia?
+is it found in antarctica?
+is it native to madagascar?
+is it found in the himalayas?
+is it found on multiple continents?
+is it found worldwide?
+is it found only on one continent?
+is it native to islands?
+does it live on every continent except antarctica?
+is it a carnivore?
+is it a herbivore?
+is it an omnivore?
+does it eat meat?
+does it eat plants?
+does it eat fruit?
+does it eat leaves?
+does it eat grass?
+does it eat seeds?
+does it eat nuts?
+does it eat insects?
+does it eat other animals?
+does it hunt other animals?
+does it hunt in packs?
+does it eat fish?
+does it eat small mammals?
+does it eat birds?
+does it eat eggs?
+does it drink blood?
+does it eat dead animals?
+is it a scavenger?
+is it a predator?
+is it prey for larger animals?
+is it at the top of its food chain?
+is it an apex predator?
+does it filter-feed?
+does it eat plankton?
+does it graze?
+does it forage for food?
+does it store food?
+does it eat nectar?
+does it eat honey?
+does it eat wood?
+does it suck blood from other animals?
+is it a parasite?
+does it eat both plants and animals?
+can it fly?
+is it capable of sustained flight?
+can it glide?
+can it hover?
+can it swim?
+is it a strong swimmer?
+can it dive underwater?
+can it breathe while underwater?
+does it walk on four legs?
+does it walk on two legs?
+does it walk upright?
+does it crawl?
+does it slither?
+does it move without legs?
+does it hop?
+does it jump?
+can it leap long distances?
+does it climb?
+is it a good climber?
+does it run fast?
+is it one of the fastest animals?
+is it faster than a human?
+is it slow-moving?
+is it known for being slow?
+does it move very slowly?
+does it crawl on the ground?
+does it move sideways?
+does it use jet propulsion to move?
+does it walk on the ocean floor?
+can it move on both land and water?
+does it migrate?
+does it migrate long distances?
+does it travel in large groups?
+does it move in herds?
+does it live in herds?
+does it live in packs?
+does it live in flocks?
+does it live in schools?
+does it live in groups?
+does it live alone?
+is it a solitary animal?
+is it a social animal?
+does it cooperate with others of its kind?
+does it have a complex social structure?
+is it nocturnal?
+is it active at night?
+is it active during the day?
+is it diurnal?
+is it most active at dawn or dusk?
+does it hibernate?
+does it sleep through winter?
+does it estivate in hot seasons?
+does it sleep a lot?
+does it sleep standing up?
+does it sleep underwater?
+does it build a den?
+does it lay eggs?
+does it give birth to live young?
+does it lay eggs in water?
+does it lay many eggs at once?
+does it care for its young?
+does it carry its young?
+does it carry its young in a pouch?
+does it nurse its young with milk?
+do its young look like miniature adults?
+does it undergo metamorphosis?
+does it start life as a larva?
+does it have a caterpillar stage?
+does it have a tadpole stage?
+does it change form as it grows?
+does it shed its skin?
+does it molt?
+does it regrow lost body parts?
+can it regenerate limbs?
+does it have a long lifespan?
+can it live more than fifty years?
+does it live less than a year?
+does it mate for life?
+is it venomous?
+is it poisonous?
+can it inject venom?
+is it dangerous to humans?
+is it considered dangerous to humans?
+can it kill a human?
+does it attack humans?
+does it bite?
+does it sting?
+can its bite be deadly?
+is it aggressive?
+is it generally harmless to humans?
+does it defend itself with spines?
+does it spray a defensive substance?
+does it play dead when threatened?
+does it use camouflage to hide?
+does it have a hard shell for protection?
+does it make loud sounds?
+does it sing?
+does it chirp?
+does it roar?
+does it howl?
+does it bark?
+does it use echolocation?
+does it communicate with sound?
+does it produce light?
+is it bioluminescent?
+does it glow in the dark?
+does it produce electricity?
+does it sense prey using electricity?
+does it have a keen sense of smell?
+does it have excellent eyesight?
+does it have poor eyesight?
+does it have a strong sense of hearing?
+does it sense vibrations?
+does it use venom to catch prey?
+does it spin silk?
+does it weave a web to catch prey?
+does it build traps?
+does it use tools?
+is it considered highly intelligent?
+does it solve problems?
+does it have a large brain relative to its body?
+is it commonly kept as a pet?
+is it a popular household pet?
+is it commonly kept in homes?
+is it a farm animal?
+is it a livestock animal?
+is it raised for its meat?
+is it raised for its milk?
+is it raised for its eggs?
+is it raised for its wool or fur?
+is it used for transportation?
+is it used as a work animal?
+is it ridden by humans?
+is it commonly eaten by humans?
+is it a common food source?
+is it caught for food by humans?
+is it hunted by humans?
+is it hunted for sport?
+is it domesticated?
+has it been domesticated by humans?
+is it a wild animal?
+is it found in zoos?
+is it kept in aquariums?
+is it trained to perform tasks?
+is it used by police or military?
+is it endangered?
+is it threatened with extinction?
+is it a protected species?
+is it critically endangered?
+is it extinct in the wild?
+is it considered a pest?
+is it considered an invasive species?
+is it commonly found in households as a pest?
+does it spread disease?
+does it carry parasites?
+is it harmful to crops?
+is it beneficial to agriculture?
+does it pollinate plants?
+does it help disperse seeds?
+is it kept for companionship?
+is it featured in many cartoons?
+is it a common symbol or mascot?
+is it associated with a particular country?
+is it a national animal of some country?
+does it appear on flags or currency?
+is it considered sacred in some cultures?
+does it have a symmetrical body?
+does it have radial symmetry?
+does it have bilateral symmetry?
+is its body covered in plates or armor?
+does it have a streamlined body?
+does it have a bulky body?
+does it have a long body?
+does it have a flat body?
+does it have a round body?
+is it shaped for swimming?
+is it shaped for digging?
+does it have flippers?
+does it have a fin on its back?
+does it have a blowhole?
+does it breathe through its skin?
+does it have a beak instead of teeth?
+does it have a hard outer skeleton instead of an internal one?
+does it have an internal skeleton?
+does it have bones?
+does it have cartilage instead of bones?
+is its skeleton on the outside of its body?
+does it have a heart?
+does it have multiple hearts?
+does it have blood?
+does it have cold blood?
+is it able to survive without water for long periods?
+does it need to drink water regularly?
+can it survive in extreme heat?
+can it survive in extreme cold?
+can it survive freezing temperatures?
+can it live without sunlight?
+does it depend on the sun to warm itself?
+does it bask in the sun?
+is it active only in warm weather?
+does it become inactive in cold weather?
+does it live in extreme environments?
+does it live in the deepest parts of the ocean?
+does it live high in the mountains?
+does it live in trees in the rainforest canopy?
+is it found in the open ocean?
+is it found along coastlines?
+does it live in the soil?
+does it live in rotting wood?
+does it live on other animals?
+does it live inside other animals?
+is it parasitic on other organisms?
+does it form partnerships with other species?
+does it clean other animals?
+does it ride on other animals?
+is it bigger than an elephant?
+is it smaller than an ant?
+is it about as tall as a human?
+does it weigh about the same as a human?
+is it one of the heaviest animals?
+is it one of the tallest animals?
+does it have a long lifespan compared to most animals?
+is it known for its speed?
+is it known for its strength?
+is it known for its jumping ability?
+is it known for its loud call?
+is it known for its colorful appearance?
+is it known for being intelligent?
+is it known for living a very long time?
+is it commonly associated with the ocean?
+is it commonly associated with deserts?
+is it commonly associated with the jungle?
+is it commonly associated with farms?
+is it commonly associated with cold regions?
+does it have more than one stomach?
+does it chew cud?
+does it have a long digestive system?
+does it swallow its prey whole?
+does it crush its food with strong jaws?
+does it have a powerful bite?
+does it use its tail as a weapon?
+does it use its horns to fight?
+does it fight others of its own kind?
+does it defend a territory?
+is it territorial?
+does it mark its territory?
+does it leave scent trails?
+does it travel in pairs?
+does it form lifelong bonds?
+does it raise its young together with a mate?
+does it abandon its eggs after laying them?
+does it guard its eggs?
+does it carry its eggs?
+does it lay eggs on land?
+does it bury its eggs?
+do its eggs hatch in water?
+is it born able to move on its own?
+is it helpless when born?
+does it grow quickly?
+does it take years to reach adulthood?
+is it among the oldest animal groups on earth?
+has it existed since the time of dinosaurs?
+is it related to dinosaurs?
+is it considered a living fossil?
+does it have a hard beak and no teeth?
+does it have feathers but cannot fly?
+does it swim using flippers?
+does it walk on the bottom of bodies of water?
+does it cling to surfaces?
+does it attach itself to rocks?
+does it stay in one place for most of its life?
+is it sessile?
+does it drift with ocean currents?
+does it float on the water surface?
+does it spend its life mostly buried?
+does it come to the surface to breathe?
+is it able to leave water for short periods?
+does it lay its eggs in nests?
+does it build elaborate structures?
+does it create mounds?
+does it tunnel through the ground?
+is it known for building dams?
+does it store food for the winter?
+does it bury food to eat later?
+does it hunt mostly at night?
+does it ambush its prey?
+does it chase down its prey?
+does it use speed to catch food?
+does it use stealth to catch food?
+does it use poison to subdue prey?
+does it wrap around its prey?
+does it constrict its prey?
+does it use a web to trap food?
+does it sift food from sand or mud?
+does it scrape algae off surfaces?
+does it eat decaying matter?
+does it recycle nutrients in its ecosystem?
+is it important to its ecosystem?
+is it a keystone species?
